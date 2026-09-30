@@ -1,9 +1,11 @@
 [package]
 name = "base58-check"
 version = "0.1.0"
-description = "A Rust library for Base58 Check"
+description = "Base58 Check — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/base58-check"
+repository = "https://github.com/SuperInstance/base58-check"
 edition = "2021"
+
+keywords = ["base58-check"]
 
 [dependencies]
